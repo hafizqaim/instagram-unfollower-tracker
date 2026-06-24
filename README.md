@@ -13,7 +13,7 @@ No third-party APIs. No scraping. No ToS violations. Just your own data. ✅
 
 ## Screenshots
 
-> Dark purple UI with sidebar navigation, stat cards, and a searchable grid of accounts.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a1efd522-66fc-47ec-82c6-92bdddae5503" />
 
 ---
 
